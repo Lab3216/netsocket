@@ -1,10 +1,9 @@
 /*
  * File: netsocket.c
- * Author: Sami Metoui 
- * Description: This library contain a set of fuctions that may be used by server and client 
- * application. These fonctions are used to initialize and create sockets, to listen on a specific port
- * to accept connexions from hosts, connect to remote host, to disconnect and close sockets
- * License: GPL 3 (http://www.gnu.org/licenses/gpl.html)
+ * Author: Sami Metoui
+ * Description: This library contain a set of network socket fuctions. It uses BSD socket primitives 
+ * to init, establish and close connections, listen, accept connections, send and receive datas. 
+ * License: GPL 3 ( http://www.gnu.org/licenses/gpl.html )
  */
 
 #ifdef WIN32

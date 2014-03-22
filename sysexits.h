@@ -2,7 +2,7 @@
  * File: sysexits.h
  * Author: Sami Metoui 
  * Description: Contain definitions of exit errors codes
- * License: GPL 3 (http://www.gnu.org/licenses/gpl.html)
+ * License: GPL 3 ( http://www.gnu.org/licenses/gpl.html )
  */
 
 #ifndef _SYSEXITS_H

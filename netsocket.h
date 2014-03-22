@@ -2,7 +2,7 @@
  * File: netsocket.h
  * Author: Sami Metoui 
  * Description: netsocket header, containing functions declarations
- * License: GPL 3 (http://www.gnu.org/licenses/gpl.html)
+ * License: GPL 3 ( http://www.gnu.org/licenses/gpl.html )
  */
 
 #ifndef NETSOCKET_H_INCLUDED
